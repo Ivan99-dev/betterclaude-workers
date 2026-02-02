@@ -10,7 +10,7 @@
 	"routes": [
 		{
 			"pattern": "*.ivandev.de5.net/*",
-			"zone_name": "2dc1e98dbe9fa1a650bbf34683be0a8f"
+			"zone_name": "46d703c1260585671fd833482c1965d6"
 		}
 	],
 	"placement": {
